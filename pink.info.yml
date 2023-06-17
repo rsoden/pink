@@ -1,0 +1,7 @@
+name: Pink
+type: theme
+description: 'Custom theme for NYC Organizer Resource Library'
+core_version_requirement: ^8 || ^9
+libraries:
+  - pink/global-styling
+base theme: classy
